@@ -1,0 +1,3 @@
+[submodule "Svelto.ProfilerInjector"]
+	path = Svelto.ProfilerInjector
+	url = https://github.com/sebas77/Svelto.ProfilerInjector
